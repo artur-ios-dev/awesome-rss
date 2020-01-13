@@ -11,6 +11,7 @@
 #### Swift
 
 * [Swift by Sundell](https://swiftbysundell.com/feed.rss) - Weekly Swift articles, podcasts and tips by @JohnSundell
+* [iOS Dev Weekly](https://iosdevweekly.com/issues.rss) - Subscribe to a hand-picked round up of the best iOS development links every week. Curated by Dave Verwer and published every Friday. Free.
 * [SwiftLee](https://www.avanderlee.com/feed) - A weekly blog about Swift, iOS and Xcode Tips and Tricks by @AvdLee
 * [Marcin Krzyżanowski](https://blog.krzyzanowskim.com/rss/) - Fix it by @krzyzanowskim
 * [Ordinary Coding](https://ordinarycoding.com/feed.rss) - Just another blog about programming by @artrmz
